@@ -36,7 +36,7 @@ siendo a su vez un lugar cómodo y acogedor los residentes. Esto es debido su va
 granada y dentro del local con los servicios indoor que proporciona (music-bar, climatización, servicio de lavandería, guarda equipaje, etc.) 
 se convierte a su vez en un gran punto de encuentro para cualquiera de la ciudad
 
-fotos/Captura-tabla.png
+![Tabla](fotos/Captura-tabla.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
