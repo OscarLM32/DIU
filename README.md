@@ -60,7 +60,7 @@ Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le h
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, [pulse aquí]([pulse aquí](https://github.com/jesusts99/DIU21/blob/master/P1/UsabilityReview.pdf))
+>>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, ([pulse aquí](https://github.com/OscarLM32/DIU/blob/master/P1/Usability-review-Carlota-Braun.pdf))
 >>> - Valoración final (numérica): 69(good)
 
 Esto es la conclusion de la practica 1 y espero que os guste mis niños bonitos
