@@ -41,9 +41,9 @@ fotos/Captura-tabla.png
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-![Alberto](fotos/Alberto-Nodales-Profile.png)
+![Alberto](P1/fotos/Alberto-Nodales-Profile.png)
 
-![Angela](fotos/Angela-Martinez-profile.png)
+![Angela](P1/fotos/Angela-Martinez-profile.png)
 
 Hemos escogido dos perfiles bastante comunes en el publico objetivo de este tipo de hospedajes. 
 Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes de entre 20 y 30 años
@@ -51,9 +51,9 @@ Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![Alberto](fotos/JourneyMap-Nodales.png)
+![Alberto](P1/fotos/JourneyMap-Nodales.png)
 
-![Angela](fotos/JourneyMap-Angela.png)
+![Angela](P1/fotos/JourneyMap-Angela.png)
 
 Ambos han tenido distintos puntos de vista de las experiencias. Mientras que Ángela buscaba mas tema servicios y demas, 
 Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le habian contado.
