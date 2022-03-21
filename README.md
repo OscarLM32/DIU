@@ -1,11 +1,13 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
-Updated: 11/2/2022
+# DIU22
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Grupo: DIU2_PaquitoGaming.  Curso: 2021/22 
+Updated: 20/3/2022
+
+Proyecto: Carlota Braum
 
 Descripción: 
 
@@ -15,14 +17,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Óscar López Maldonado    :octocat:     
+ * :bust_in_silhouette:  Luis Guerra Batista     :octocat:
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -32,26 +31,39 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Se trata de un alojamiento que busca ser un nexo entre el ocio nocturno y la cultura nazarí de granada 
+siendo a su vez un lugar cómodo y acogedor los residentes. Esto es debido su variedad de eventos por la ciudad de 
+granada y dentro del local con los servicios indoor que proporciona (music-bar, climatización, servicio de lavandería, guarda equipaje, etc.) 
+se convierte a su vez en un gran punto de encuentro para cualquiera de la ciudad
+
+fotos/Captura-tabla.png
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Alberto](fotos/Alberto-Nodales-Profile.png)
+
+![Angela](fotos/Angela-Martinez-profile.png)
+
+Hemos escogido dos perfiles bastante comunes en el publico objetivo de este tipo de hospedajes. 
+Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes de entre 20 y 30 años
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![Alberto](fotos/JourneyMap-Nodales.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Angela](fotos/JourneyMap-Angela.png)
+
+Ambos han tenido distintos puntos de vista de las experiencias. Mientras que Ángela buscaba mas tema servicios y demas, 
+Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le habian contado.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, [pulse aquí]([pulse aquí](https://github.com/jesusts99/DIU21/blob/master/P1/UsabilityReview.pdf))
+>>> - Valoración final (numérica): 69(good)
+
+Esto es la conclusion de la practica 1 y espero que os guste mis niños bonitos
 
 
 ## Paso 2. UX Design  
