@@ -58,12 +58,10 @@ Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes
 Ambos han tenido distintos puntos de vista de las experiencias. Mientras que Ángela buscaba mas tema servicios y demas, 
 Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le habian contado.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+1.d Usability Review
 ----
 >>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, ([pulse aquí](https://github.com/OscarLM32/DIU/blob/master/P1/Usability-review-Carlota-Braun.pdf))
 >>> - Valoración final (numérica): 69(good)
-
-![BRIEFING](img/resumen.png) 1.e Resumen de la practica 
 ----
 Dejando a un lado los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de ayuda para los usuarios menos experimentados, se ve solventada por una interfaz bastante sencilla e intuitiva que no dejara indiferente a ningun tipo de publico. A su vez, a nivel de marketing, podemos afirmar que esta bastante bien focalizada a su publico objetivo.
 
