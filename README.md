@@ -43,7 +43,7 @@ fotos/Captura-tabla.png
 
 ![Alberto](P1/fotos/Alberto-Nodales-Profile.png)
 
-![Angela](P1/fotos/Angela-Martinez-profile.png)
+![Angela](P1/fotos/Angela-Martinez-Profile.png)
 
 Hemos escogido dos perfiles bastante comunes en el publico objetivo de este tipo de hospedajes. 
 Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes de entre 20 y 30 años
@@ -63,8 +63,9 @@ Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le h
 >>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, ([pulse aquí](https://github.com/OscarLM32/DIU/blob/master/P1/Usability-review-Carlota-Braun.pdf))
 >>> - Valoración final (numérica): 69(good)
 
-Esto es la conclusion de la practica 1 y espero que os guste mis niños bonitos
-
+![BRIEFING](img/resumen.png) 1.e Resumen de la practica 
+----
+Dejando a un lado los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de ayuda para los usuarios menos experimentados, se ve solventada por una interfaz bastante sencilla e intuitiva que no dejara indiferente a ningun tipo de publico. A su vez, a nivel de marketing, podemos afirmar que esta bastante bien focalizada a su publico objetivo.
 
 ## Paso 2. UX Design  
 
