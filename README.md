@@ -43,7 +43,7 @@ fotos/Captura-tabla.png
 
 ![Alberto](P1/fotos/Alberto-Nodales-Profile.png)
 
-![Angela](P1/fotos/Angela-Martinez-Profile.png)
+![Angela](P1/fotos/Angela-Martinez-Profile.PNG)
 
 Hemos escogido dos perfiles bastante comunes en el publico objetivo de este tipo de hospedajes. 
 Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes de entre 20 y 30 años
