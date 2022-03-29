@@ -76,7 +76,7 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 
 
  Interesante | Críticas     
-| -----------| -------
+| -----------| ----------
 La navegacion por la pagina es intuitiva. | Excesos de cambios de tipografia.
 Informacion simple y condensada. | Falta de ayuda al usuario.
 El proceso de reserva es rapido. | Falta de personalizacion en la busqueda.
