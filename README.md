@@ -81,6 +81,9 @@ La navegacion por la pagina es intuitiva. | Excesos de cambios de tipografia.
 Informacion simple y condensada. | Falta de ayuda al usuario.
 El proceso de reserva es rapido. | Falta de personalizacion en la busqueda.
 Es facil encontrar informacion de como llegar al local. | Mejorar la eficiencia de la pagina.
+
+ Preguntas | Nuevas ideas
+| ------------- | -------
   
  Preguntas | Nuevas ideas
 ¿Hay mas ofertas culturales fuera de la pagina web?. | Habilitar una pestaña de ayudas para la reserva de habitaciones.
