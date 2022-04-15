@@ -100,7 +100,7 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 
-![ScopeCanvas](img/ScopeCanvas.png)
+![ScopeCanvas](img/ScopeCanvasHecho.png)
 ----
 >>> Propuesta de valor 
 
@@ -132,9 +132,6 @@ Task:
 |Solicitar ayuda|L|M|M|H|
 |Dejar reseña|L|H|L|H|
 
------
-
->>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
