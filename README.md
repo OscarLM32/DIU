@@ -68,7 +68,7 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 
@@ -99,10 +99,39 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+
+![ScopeCanvas](img/ScopeCanvas.png)
 ----
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+
+Grupos: 
+    Individuo local
+    Individuo extranjero
+    Grupo local
+    Grupo extranjero
+
+Task:
+    Reservar habitacion 
+    Reservar en el restaurante
+    Ver eventos
+    Ver carta
+    Solicitar ayuda
+    Dejar reseña
+    Consultar servicios
+
+
+||Individuo local|Individuo extranjero|Grupo local|Grupo extranjero|
+|----------------|--------------------|------------------|-----------------|----------------|
+|Reservar habitacion|L|M|L|H|
+|Consultar servicios|L|H|M|H|
+|Reservar en el restaurante|L|L|H|M|
+|Ver eventos|H|H|M|M|
+|Ver carta|L|M|M|H|
+|Solicitar ayuda|L|M|M|H|
+|Dejar reseña|L|H|L|H|
+
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
