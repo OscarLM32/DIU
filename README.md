@@ -68,11 +68,12 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid y Empathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+Hemos decidido hacer ambos, ya que pretendemos obtener el mejor resultado.
+Con el Feedback Capture Grid analizamos desde el punto de vista funcional la pagina web para tratar de subsanar los mismos a la hora de desarrollar nuestra propuesta.
+A du vez, con el Empathy Map obtenemos las motivaciones, inquietudes y la posible imagen mental de lo que el usuario espera de nuestro negocio.
 
 
 | Interesante                                             |Críticas                                      |
@@ -91,11 +92,10 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 
 ![EmpathyMap](img/Empathymap_Hecho.png)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 palabras)
+Es despues de haber analizado todo lo visto previamente que proponemos "La vuelta del tinto de VERANO".
 
+Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. La idea es que durante un mes habra eventos en los que las consumisiones en los mismos iran dando puntos para que finalmente canjearlos por productos y clasificar en una especie de ranking del "mas juerguero" para optar al gran premio del evento. Todo esto se llevara a cabo por una aplicacion en la que los que quieran participar se registraran y podran ver los puntos que llevan, los eventos, los premios, el ranking y su propio QR para obtener los puntos
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -145,7 +145,7 @@ Término | Significado
 | ------------- | -------
 | Login¿?  | acceder a plataforma
 | Blog¿?  | tablon de publicaciones de interes 
-
+||
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
