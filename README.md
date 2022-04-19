@@ -91,9 +91,8 @@ A du vez, con el Empathy Map obtenemos las motivaciones, inquietudes y la posibl
 | ¿Hay descuento para grupos?.                         | Ofrecer la posibilidad de escoger habitaciones y fechas a la vez.                 |
 
 ![EmpathyMap](img/Empathymap_Hecho.png)
-    
->>> (150-200 palabras)
-Es despues de haber analizado todo lo visto previamente que proponemos "La vuelta del tinto de VERANO". <br>
+
+Es despues de haber analizado todo lo visto previamente que proponemos "La vuelta del tinto de VERANO".
 
 
 Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. La idea es que durante un mes habra eventos en los que las consumisiones en los mismos iran dando puntos para que finalmente canjearlos por productos y clasificar en una especie de ranking del "mas juerguero" para optar al gran premio del evento. Todo esto se llevara a cabo por una aplicacion en la que los que quieran participar se registraran y podran ver los puntos que llevan, los eventos, los premios, el ranking y su propio QR para obtener los puntos
