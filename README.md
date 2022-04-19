@@ -137,6 +137,7 @@ Task:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Sitemap](img/SitemapHecho.png) Sitemap
 
 >>> Identificar términos para diálogo con usuario  
 
