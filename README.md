@@ -137,13 +137,15 @@ Task:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![Sitemap](img/SitemapHecho.png) Sitemap
+![Sitemap](img/SitemapHecho.png) 
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+| Login¿?  | acceder a plataforma
+| Blog¿?  | tablon de publicaciones de interes 
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
