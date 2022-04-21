@@ -103,7 +103,6 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![ScopeCanvas](img/ScopeCanvasHecho.png)
 ----
->>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 
@@ -128,7 +127,6 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Sitemap](img/SitemapHecho.png) 
 
->>> Identificar términos para diálogo con usuario  
 
 | Término            | Significado                                                         |  
 |--------------------|---------------------------------------------------------------------|
@@ -156,7 +154,6 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![PaginaCanjeables](img/CanjeablesPagina.png)
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
