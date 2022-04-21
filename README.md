@@ -139,15 +139,15 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 
-![Pagina Registro] (img/RegistroPagina.png)
+![PaginaRegistro] (img/RegistroPagina.png)
 
-![Pagina InicioSesion] (img/InicioSesionPagina.png)
+![PaginaInicioSesion] (img/InicioSesionPagina.png)
 
-![Pagina Home] (img/HomePagina.png)
+![PaginaHome] (img/HomePagina.png)
 
-![Pagina Eventos] (img/EventosPagina.png)
+![PaginaEventos] (img/EventosPagina.png)
 
-![Pagina Canjeables] (img/CanjeablesPagina.png)
+![PaginaCanjeables] (img/CanjeablesPagina.png)
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
