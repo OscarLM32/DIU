@@ -116,8 +116,10 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 | Acceder a detalles evento   | M          | M          | H          | H   |
 | Dejar reseña                | L          | M          | H          | H   |
 | Acceder a ranking de puntos | H          | H          | L          | L   |
+| Buscar usuario en ranking   | H          | H          | L          | L   |
 | Ver productos canjeables    | H          | M          | M          | L   |
 | Obtener QR                  | L          | M          | H          | H   |
+| Editar foto perfil          | H          | M          | H          | L   |
 
 
 
