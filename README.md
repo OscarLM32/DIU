@@ -107,31 +107,17 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 
-Grupos: 
-    Individuo local
-    Individuo extranjero
-    Grupo local
-    Grupo extranjero
 
-Task:
-    Reservar habitacion 
-    Reservar en el restaurante
-    Ver eventos
-    Ver carta
-    Solicitar ayuda
-    Dejar reseña
-    Consultar servicios
-
-
-||Individuo local|Individuo extranjero|Grupo local|Grupo extranjero|
-|----------------|--------------------|------------------|-----------------|----------------|
-|Reservar habitacion|L|M|L|H|
-|Consultar servicios|L|H|M|H|
-|Reservar en el restaurante|L|L|H|M|
-|Ver eventos|H|H|M|M|
-|Ver carta|L|M|M|H|
-|Solicitar ayuda|L|M|M|H|
-|Dejar reseña|L|H|L|H|
+|                             | 18-22 años | 23-30 años | 30-45 años | 45+ |
+|-----------------------------|------------|------------|------------|-----|
+| Registrarse                 | H          | M          | L          | L   |
+| Iniciar Sesión              | H          | M          | L          | L   |
+| Ver eventos                 | H          | H          | H          | H   |
+| Acceder a detalles evento   | M          | M          | H          | H   |
+| Dejar reseña                | L          | M          | H          | H   |
+| Acceder a ranking de puntos | H          | H          | L          | L   |
+| Ver productos canjeables    | H          | M          | M          | L   |
+| Obtener QR                  | L          | M          | H          | H   |
 
 
 
