@@ -130,11 +130,18 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-| Login¿?  | acceder a plataforma
-| Blog¿?  | tablon de publicaciones de interes 
-||
+| Término            | Significado                                                         |  
+|--------------------|---------------------------------------------------------------------|
+| Inicio sesión      | Introducir los datos para usar la aplicación                        |
+| Registrarse        | Introducir tus crecenciales para poder iniciar sesión               |
+| Home               | Página principal de la aplicación                                   |
+| Puntos             | Divisa de la aplicación                                             |
+| Ranking            | Tabla de puntuaciones globales del evento ordenada de mayor a menor |
+| Evento             | Acontecimiento social en el que se pueden conseguir puntos          |
+| Producto canjeable | Objetos que se pueden comprar con los puntos obtenidos              |
+| Código QR          | Imagen escaneable que identifica a un persona                       |
+| Email              | Correo electrónico                                                  |
+| Foto de perfil     | Imagen que se muestra al resto de usuarios en la aplicación         |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -145,7 +152,7 @@ Término | Significado
 
 ![PaginaHome](img/HomePagina.png)
 
-![PaginaEventos](img/EventosPagina.png)
+![PaginaEventos](img/EventoPagina.png)
 
 ![PaginaCanjeables](img/CanjeablesPagina.png)
 
