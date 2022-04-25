@@ -70,10 +70,14 @@ Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid y Empathy map 
 ----
+Hemos optado por realizar ambas opciones disponibles: 'capture grid' y 'empathy map'. Esto ha sido  planteado
+de esta manera porque en nuestra opinión, estos diagramas/tablas son complementarios uno del otro y juntos
+aportan una información mucho más detallada sobre los diferentes problemas que presenta una página web o aplicación.
 
-Hemos decidido hacer ambos, ya que pretendemos obtener el mejor resultado.
-Con el Feedback Capture Grid analizamos desde el punto de vista funcional la pagina web para tratar de subsanar los mismos a la hora de desarrollar nuestra propuesta.
-A du vez, con el Empathy Map obtenemos las motivaciones, inquietudes y la posible imagen mental de lo que el usuario espera de nuestro negocio.
+En primer lugar, el 'capture grid' nos permite obtener el 'feedback' de los usuarios a un nivel muchos más funcional,
+cuál es su experiencia haciendo uso de la página y qué otras dudas les han surgido navegando por la misma. Mientras
+que por otro lado el 'empathy map' nos ayuda a comprender qué tipo de imagen mental tienen los usuarios sobre la marca. De
+esta manera seremos capaces de diseñar nuestro microsite con una estética que se asemeje en la mayor medida a lo que los usuarios imaginan.
 
 
 | Interesante                                             |Críticas                                      |
@@ -150,10 +154,17 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![PaginaHome](P2/img/HomePagina.png)
 
-![PaginaEventos](P2/img/EventoPagina.png)
+![PaginaPerfil](P2/img/PerfilPagina.png)
+
+![PaginaEditarPerfil](P2/img/EditarPagina.png)
 
 ![PaginaCanjeables](P2/img/CanjeablesPagina.png)
 
+![PaginaProducto](P2/img/ProductoPagina.png)
+
+![PaginaRanking](P2/img/RankingPagina.png)
+
+![PaginaEventos](P2/img/EventoPagina.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
