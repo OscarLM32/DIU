@@ -90,18 +90,18 @@ A du vez, con el Empathy Map obtenemos las motivaciones, inquietudes y la posibl
 | ¿Se pueden proponer eventos?.                        | 	Contratar a un ingeniero de servidores para mejorar la respuesta de la pagina. | 
 | ¿Hay descuento para grupos?.                         | Ofrecer la posibilidad de escoger habitaciones y fechas a la vez.                 |
 
-![EmpathyMap](img/Empathymap_Hecho.png)
+![EmpathyMap](P2/img/Empathymap_Hecho.png)
 
 Es despues de haber analizado todo lo visto previamente que proponemos "Tintito para el Veranito".
 
-![ImagenDeLaPropuesta](img/PropuestaLogo.png)
+![ImagenDeLaPropuesta](P2/img/PropuestaLogo.png)
 
 Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. La idea es que durante un mes habra eventos en los que las consumisiones en los mismos iran dando puntos para que finalmente canjearlos por productos y clasificar en una especie de ranking del "mas juerguero" para optar al gran premio del evento. Todo esto se llevara a cabo por una aplicacion en la que los que quieran participar se registraran y podran ver los puntos que llevan, los eventos, los premios, el ranking y su propio QR para obtener los puntos
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 
-![ScopeCanvas](img/ScopeCanvasHecho.png)
+![ScopeCanvas](P2/img/ScopeCanvasHecho.png)
 ----
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
@@ -125,7 +125,7 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![Sitemap](img/SitemapHecho.png) 
+![Sitemap](P2/img/SitemapHecho.png) 
 
 
 | Término            | Significado                                                         |  
@@ -144,15 +144,15 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 
-![PaginaRegistro](img/RegistroPagina.png)
+![PaginaRegistro](P2/img/RegistroPagina.png)
 
-![PaginaInicioSesion](img/InicioSesionPagina.png)
+![PaginaInicioSesion](P2/img/InicioSesionPagina.png)
 
-![PaginaHome](img/HomePagina.png)
+![PaginaHome](P2/img/HomePagina.png)
 
-![PaginaEventos](img/EventoPagina.png)
+![PaginaEventos](P2/img/EventoPagina.png)
 
-![PaginaCanjeables](img/CanjeablesPagina.png)
+![PaginaCanjeables](P2/img/CanjeablesPagina.png)
 
 
 
