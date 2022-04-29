@@ -114,7 +114,8 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 |                             | 18-22 años | 23-30 años | 30-45 años | 45+ |
 |-----------------------------|------------|------------|------------|-----|
 | Registrarse                 | H          | M          | L          | L   |
-| Iniciar Sesión              | H          | M          | L          | L   |
+| Log In                      | H          | M          | L          | L   |
+| Log Out                     | M          | M          | L          | L   |
 | Ver eventos                 | H          | H          | H          | H   |
 | Acceder a detalles evento   | M          | M          | H          | H   |
 | Dejar reseña                | L          | M          | H          | H   |
@@ -134,7 +135,8 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 | Término            | Significado                                                         |  
 |--------------------|---------------------------------------------------------------------|
-| Inicio sesión      | Introducir los datos para usar la aplicación                        |
+| Log In             | Introducir los datos para usar la aplicación                        |
+| Log Out            | Salir de tu sesion en la aplicacion                                 |
 | Registrarse        | Introducir tus crecenciales para poder iniciar sesión               |
 | Home               | Página principal de la aplicación                                   |
 | Puntos             | Divisa de la aplicación                                             |
