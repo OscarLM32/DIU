@@ -174,7 +174,7 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-(P3/img/Moodboard.PNG)
+![Mood](P3/img/Moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
@@ -183,7 +183,7 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-(P3/img/Landing_page.PNG)
+![Landing](P3/img/Landing_page.png)
 
 >>> Plantear Landing Page 
 
