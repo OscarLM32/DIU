@@ -174,7 +174,7 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![Mood](P3/img/Moodboard.png)
+![Mood](P3/img/MoodBoard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
