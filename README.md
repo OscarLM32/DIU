@@ -197,9 +197,9 @@ explicar logotipo:
 explicar tipografia:
 
 explicar patrones:
-    Leaderboard
-    Vote to Promote
-    Lazy Registration
+    Leaderboard: Debido a ese ambiente competitivo que pueda llegar a generarse en el mismo hemos visto necesario usar un leaderboard en el que los usuarios interesados puedan ver quienes estan en la cabeza en la obtencion de puntos
+    Vote to Promote: Para escoger que productos ponemos mas arriba en el catalogo, vamos a seguir el patron de Vote to Promote. De esta forma los usuarios que entren y canjeen por un producto, puedan dar su valoracion y asi esta saldra mas arriba en el catalogo para el resto de usuarios
+    Lazy Registration: Como el registro no es algo necesariamente importante en nuestra aplicacion, mas alla de asociar a algun usuario una cantidad de puntos especifica, hemos optado por el patron de diseño Lazy Registration para agilizar al maximo dicha experiencia al usuario y pueda empezar a usar la aplicacion al maximo lo antes posible
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
