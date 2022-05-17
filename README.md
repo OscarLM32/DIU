@@ -190,6 +190,17 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+explicar paleta de colores:
+
+explicar logotipo:
+
+explicar tipografia:
+
+explicar patrones:
+    Leaderboard
+    Vote to Promote
+    Lazy Registration
+
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
