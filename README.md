@@ -176,9 +176,12 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 -----
 ![Mood](P3/img/MoodBoard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Con el siguiente moodboard generado para la elaboración de la aplicación se puede observar perfectamente cuál ha sido la referencia principal que se ha tenido en cuenta, las salas recreativas de lso 80s/90s. Así pues, el objetivo es que sea un lugar donde la gente consuman nuestros productos además de divertirse y poder canjear productos en base a las consumiciones que tomen.
+
+El logo trata de comunicar diversión social entre personas que comparten una copa de vino o tinto, por ello que el logo son dos copas chocando a modo de brindis, que suele denotar un ambiente alegre, y el círculo sirve para enfatizar la conexión de amistad agrupándola a modo de anillo.
+
+Pese a todo lo anterior, este moodboard no se podría utilizar como cabecera de Twitter. Entre los motivos tenemos que no es un banner, por lo que tiene una forma bastante cuadrada, aunque sea rectangular, por lo que varios elementos quedarían recortados. En adición hay que tener en cuenta que este moodboard ha sido planteado como concepto visual e intencional de la aplicación, para el equipo de desarrollo o para los productores de la aplicaciṕon, no ha de ser tomado como resumen para el usuario. Por último, al no contar con un estudio profesional de fotografía, aunque las fotos coinciden en gran medida con la temática de la aplicación, no son “óptimas”. Lo que dejaría una mala visión a nivel público.
+
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -190,19 +193,33 @@ Este evento propone una mezcla entre las salas de arcade y un torneo de puntos. 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-explicar paleta de colores:
+<b>LOGO</b><br>
+El primer logo que presentamos se trataba de un logo con colores principales blanco, negro y naranja, nuevamaente queriendo resaltar colores veranigos. Sin embargo, se trataba de un logo muy rígido y poco moldeable, por lo que, una vez tuvimos la paleta de colores definida, optamos por crear un nuevo logo más flexible y simple, que se ajustara a los colores de la nueva paleta y expresara de mejor manera la simpleza que intenta transmtir la aplicación.
 
-explicar logotipo:
+<b>TIPOGRAFÍA</b><br>
+<b>Vintage king</b><br>
+Esta tipografía, la referente a los títulos, al estar exenta de rigidez tiene una mayor semblanza al verano, puesto que es una época que para muchos significa descanso y fluidez en el día a día. También tiene un grosor bastante destacable, lo que le da energía, otra emoción que se quiere representar.
 
-explicar tipografia:
+<b>Summer Display</b><br>
+Al tratarse de la fuente para los subtítulos, hemos buscado una fuente que resulte más fácil de leer, pero tampoco llegando a un tipo de letra de lectura como vienen a ser Arial, Calibri… e igual que antes tiene bastante grosor la letra, por lo que denota energía nuevamente.
 
-explicar patrones:
-    Leaderboard: Debido a ese ambiente competitivo que pueda llegar a generarse en el mismo hemos visto necesario usar un leaderboard en el que los usuarios interesados puedan ver quienes estan en la cabeza en la obtencion de puntos
-    Vote to Promote: Para escoger que productos ponemos mas arriba en el catalogo, vamos a seguir el patron de Vote to Promote. De esta forma los usuarios que entren y canjeen por un producto, puedan dar su valoracion y asi esta saldra mas arriba en el catalogo para el resto de usuarios
-    Lazy Registration: Como el registro no es algo necesariamente importante en nuestra aplicacion, mas alla de asociar a algun usuario una cantidad de puntos especifica, hemos optado por el patron de diseño Lazy Registration para agilizar al maximo dicha experiencia al usuario y pueda empezar a usar la aplicacion al maximo lo antes posible
+<b>Coolvetica</b><br>
+Coolvetica ha sido seleccionada en base al principio de querer una letra sencilla y fácil de leer en cantidades medio abundantes, pero tampoco ser muy diferente a lo que supuestamente los usuarios leerán antes, “Summer Display”, de esa manera no crear un choque en el cambio de letra y hacer que la lectura esté muy integrada.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+<b>PALETA DE COLORES</b><br>
+En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a excepción del blanco, con el objetivo de ir a juego con el color del vino/tinto al igual que con la época de verano, donde aquí en el sur suele destacar mucho por el calor (rojo en los medios de comunicación). Además, se han tenido en cuenta los colores principales de Carlota Braun, para no olvidar ni hacer una gran distinción entre el evento y el establecimiento, porque al fin y al cabo, es un evento realizado por Carlota Braun, por lo que requiere reconocimiento.
+
+
+
+<br><br>
+<b>PATRONES DE DISEÑO UTILIZADOS</b><br>
+<b>Leaderboard:</b> Debido a ese ambiente competitivo que pueda llegar a generarse en el mismo hemos visto necesario usar un leaderboard en el que los usuarios interesados puedan ver quienes están en la cabeza en la obtención de puntos
+    
+<b>Vote to Promote</b>: Para escoger que productos ponemos más arriba en el catálogo, vamos a seguir el patron de Vote to Promote. De esta forma los usuarios que entren y canjeen por un producto, puedan dar su valoración y asi esta saldrá más arriba en el catálogo para el resto de usuarios
+    
+<b>Lazy Registration</b>: Como el registro no es algo necesariamente importante en nuestra aplicación, más alla de asociar a algún usuario una cantidad de puntos especifica, hemos optado por el patron de diseño Lazy Registration para agilizar al máximo dicha experiencia al usuario y pueda empezar a usar la aplicación al máximo lo antes posible
+ 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
