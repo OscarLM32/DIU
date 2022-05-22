@@ -61,7 +61,7 @@ Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le h
 1.d Usability Review
 ----
 >>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, ([pulse aquí](https://github.com/OscarLM32/DIU/blob/master/P1/Usability-review-Carlota-Braun.pdf))
->>> - Valoración final (numérica): 69(good)
+>>> - Valoración final (numérica): 69(good) 
 ----
 Los relativamente altos tiempos de cargar de alguna de sus paginas y la falta de ayuda para los usuarios menos experimentados, se ven solventados por una interfaz bastante sencilla e intuitiva que no dejara indiferente a ningun tipo de publico. A su vez, a nivel de marketing, podemos afirmar que esta bastante bien focalizada a su publico objetivo.
 
@@ -238,8 +238,7 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+([Para ver el Video pulse aqui](https://github.com/OscarLM32/DIU/blob/master/P3/%E2%96%B6%20Page%201%20-%20Proyecto_%20-%20Brave%202022-05-22%2020-54-57.mp4))
 
 
 ## Paso 4. Evaluación 
