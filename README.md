@@ -206,17 +206,6 @@ Al tratarse de la fuente para los subtítulos, hemos buscado una fuente que resu
 <b>Open Sans</b><br>
 Open Sans ha sido seleccionada en base al principio de querer una letra sencilla y fácil de leer en cantidades medio abundantes, pero tampoco ser muy diferente a lo que supuestamente los usuarios leerán antes, “Summer Display”, de esa manera no crear un choque en el cambio de letra y hacer que la lectura esté muy integrada.
 
-<<<<<<< Updated upstream
-=======
-explicar patrones:
-    
-    Leaderboard: Debido a ese ambiente competitivo que pueda llegar a generarse en el mismo hemos visto necesario usar un leaderboard en el que los usuarios interesados puedan ver quienes estan en la cabeza en la obtencion de puntos
-    
-    Vote to Promote: Para escoger que productos ponemos mas arriba en el catalogo, vamos a seguir el patron de Vote to Promote. De esta forma los usuarios que entren y canjeen por un producto, puedan dar su valoracion y asi esta saldra mas arriba en el catalogo para el resto de usuarios
-
-    Lazy Registration: Como el registro no es algo necesariamente importante en nuestra aplicacion, mas alla de asociar a algun usuario una cantidad de puntos especifica, hemos optado por el patron de diseño Lazy Registration para agilizar al maximo dicha experiencia al usuario y pueda empezar a usar la aplicacion al maximo lo antes posible. Es por ello que nos hemos visto en la tesitura de cambiar el antiguo WireFrame de registro para minimizar al maximo la informacion necesaria, quedandonos unicamente con nombre de usuario y contraseña
->>>>>>> Stashed changes
-
 <b>PALETA DE COLORES</b><br>
 En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a excepción del blanco, con el objetivo de ir a juego con el color del vino/tinto al igual que con la época de verano, donde aquí en el sur suele destacar mucho por el calor (rojo en los medios de comunicación). Además, se han tenido en cuenta los colores principales de Carlota Braun, para no olvidar ni hacer una gran distinción entre el evento y el establecimiento, porque al fin y al cabo, es un evento realizado por Carlota Braun, por lo que requiere reconocimiento.
 
