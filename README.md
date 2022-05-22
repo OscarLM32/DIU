@@ -222,8 +222,16 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![MenuPrincipal](P3/img/Pantalla1.PNG)
+![MenuPrincipal](P3/img/Pantalla2.PNG)
+![MenuPrincipal](P3/img/Pantalla3.PNG)
+![MenuPrincipal](P3/img/Pantalla4.PNG)
+![MenuPrincipal](P3/img/Pantalla5.PNG)
+![MenuPrincipal](P3/img/Pantalla 6.PNG)
+![MenuPrincipal](P3/img/Pantalla 7.PNG)
+![MenuPrincipal](P3/img/Pantalla 8.PNG)
+![MenuPrincipal](P3/img/Pantalla 9.PNG)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
