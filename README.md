@@ -197,14 +197,14 @@ Pese a todo lo anterior, este moodboard no se podría utilizar como cabecera de 
 El primer logo que presentamos se trataba de un logo con colores principales blanco, negro y naranja, nuevamaente queriendo resaltar colores veranigos. Sin embargo, se trataba de un logo muy rígido y poco moldeable, por lo que, una vez tuvimos la paleta de colores definida, optamos por crear un nuevo logo más flexible y simple, que se ajustara a los colores de la nueva paleta y expresara de mejor manera la simpleza que intenta transmtir la aplicación.
 
 <b>TIPOGRAFÍA</b><br>
-<b>Vintage king</b><br>
+<b>Pacifico</b><br>
 Esta tipografía, la referente a los títulos, al estar exenta de rigidez tiene una mayor semblanza al verano, puesto que es una época que para muchos significa descanso y fluidez en el día a día. También tiene un grosor bastante destacable, lo que le da energía, otra emoción que se quiere representar.
 
-<b>Summer Display</b><br>
+<b>Bitter</b><br>
 Al tratarse de la fuente para los subtítulos, hemos buscado una fuente que resulte más fácil de leer, pero tampoco llegando a un tipo de letra de lectura como vienen a ser Arial, Calibri… e igual que antes tiene bastante grosor la letra, por lo que denota energía nuevamente.
 
-<b>Coolvetica</b><br>
-Coolvetica ha sido seleccionada en base al principio de querer una letra sencilla y fácil de leer en cantidades medio abundantes, pero tampoco ser muy diferente a lo que supuestamente los usuarios leerán antes, “Summer Display”, de esa manera no crear un choque en el cambio de letra y hacer que la lectura esté muy integrada.
+<b>Open Sans</b><br>
+Open Sans ha sido seleccionada en base al principio de querer una letra sencilla y fácil de leer en cantidades medio abundantes, pero tampoco ser muy diferente a lo que supuestamente los usuarios leerán antes, “Summer Display”, de esa manera no crear un choque en el cambio de letra y hacer que la lectura esté muy integrada.
 
 <<<<<<< Updated upstream
 =======
