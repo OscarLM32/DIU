@@ -223,14 +223,14 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 ![MenuPrincipal](P3/img/Pantalla1.PNG)
-![MenuPrincipal](P3/img/Pantalla2.PNG)
-![MenuPrincipal](P3/img/Pantalla3.PNG)
-![MenuPrincipal](P3/img/Pantalla4.PNG)
-![MenuPrincipal](P3/img/Pantalla5.PNG)
-![MenuPrincipal](P3/img/Pantalla 6.PNG)
-![MenuPrincipal](P3/img/Pantalla 7.PNG)
-![MenuPrincipal](P3/img/Pantalla 8.PNG)
-![MenuPrincipal](P3/img/Pantalla 9.PNG)
+![Registrarse](P3/img/Pantalla2.PNG)
+![ProductoDetalles](P3/img/Pantalla3.PNG)
+![EditarPerfil](P3/img/Pantalla4.PNG)
+![EventoDestalles](P3/img/Pantalla5.PNG)
+![InicioSesion](P3/img/Pantalla6.png)
+![Perfil](P3/img/Pantalla7.png)
+![Productos](P3/img/Pantalla8.png)
+![Ranking](P3/img/Pantalla9.png)
 
 
 
