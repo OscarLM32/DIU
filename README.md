@@ -250,7 +250,6 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 ----
 
 
-<<<<<<< Updated upstream
 La temática principal del caso asignado trata de un evento mensual con una
 temática específica, donde el decorado del local y menú del restaurante
 cambiarán en base a ella. También se realizará un trivial una vez por evento donde
@@ -259,14 +258,15 @@ los clientes un photocall para que los clientes puedan echarse fotos.
 
 Enlace al github <a href="https://github.com/PalomoVirtual/DIU">AshenTwo</a>
 
-=======
->>>>>>> Stashed changes
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
+Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplaying. Hemos creado 4 personajes ficticios (2 para cada aplicación) usando los dados proporcionados:
+
+(img/dados.png)
 
 Usuario1: 2 6 5 (Aplicacion A): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
 Usuario2: 3 5 3 (Aplicacion A): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
@@ -274,7 +274,6 @@ Usuario2: 3 5 3 (Aplicacion A): Miguel Suarez es un joven estudiante de universi
 Usuario3: 6 1 4 (Aplicacion B): Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
 Usuario4: 1 4 6 (Aplicacion B): Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
 
-Emocional
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
