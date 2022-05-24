@@ -7,14 +7,17 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 Grupo: DIU2_PaquitoGaming.  Curso: 2021/22 
 Updated: 20/3/2022
 
-Proyecto: Carlota Braum
+Proyecto: Tintito para el veranito
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Durante el evento de Tintito para el veranito, en cualquier evento que realice Carlota
+Braun, los clientes recibirán puntos por consumicion. Estos puntos servirán para canjearlos por
+productos cuando se tengan los suficientes.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logotipo](P2/img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Óscar López Maldonado    :octocat:     
