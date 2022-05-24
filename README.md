@@ -250,7 +250,13 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+La temática principal del caso asignado trata de un evento mensual con una
+temática específica, donde el decorado del local y menú del restaurante
+cambiarán en base a ella. También se realizará un trivial una vez por evento donde
+los ganadores podrán optar a ciertos premios. Por último, se pondrá a disposición de
+los clientes un photocall para que los clientes puedan echarse fotos.
+
+Enlace al github <a href="https://github.com/PalomoVirtual/DIU">AshenTwo</a>
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
