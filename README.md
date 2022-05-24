@@ -268,11 +268,11 @@ Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplay
 
 ![dados](img/dados.png)
 
-Usuario1: 2 6 5 (Aplicacion A): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
-Usuario2: 3 5 3 (Aplicacion A): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
+<br>Usuario1</br>: 2 6 5 (<br>Aplicacion A</br>): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
+<br>Usuario2</br>: 3 5 3 (<br>Aplicacion A</br>): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
 
-Usuario3: 6 1 4 (Aplicacion B): Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
-Usuario4: 1 4 6 (Aplicacion B): Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
+<br>Usuario3</br>: 6 1 4 (<br>Aplicacion B</br>): Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
+<br>Usuario4</br>: 1 4 6 (<br>Aplicacion B</br>): Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
