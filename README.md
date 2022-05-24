@@ -237,8 +237,7 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
-([Para ver el Video pulse aqui](https://github.com/OscarLM32/DIU/blob/master/P3/%E2%96%B6%20Page%201%20-%20Proyecto_%20-%20Brave%202022-05-22%2020-54-57.mp4))
+([Para ver el proyecto figma] https://github.com/OscarLM32/DIU.git)
 
 
 ## Paso 4. Evaluación 
