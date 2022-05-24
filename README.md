@@ -272,16 +272,16 @@ Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplay
 <br><b>Usuario2</b>: 3 5 3 (<b>Aplicacion A</b>): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
 
 <b>Usuario3</b>:
-&nbsp 6 viejo - 4 problemas de tiempo - 4 sorprendido
-&nbsp Aplicacion B 
-&nbsp Experiencia baja en Windows y Phone
-&nbsp Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
+&nbsp; 6 viejo - 4 problemas de tiempo - 4 sorprendido
+&nbsp; Aplicacion B 
+&nbsp; Experiencia baja en Windows y Phone
+&nbsp; Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
 &nbsp 
 <br><b>Usuario4</b>
-&nbsp 1 meditacion - 4 problemas de tiempo - 6 triste 
-&nbsp <b>Aplicacion B</b>
-&nbsp Experiencia media en Windows Web y Phone
-&nbsp Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
+&nbsp; 1 meditacion - 4 problemas de tiempo - 6 triste 
+&nbsp; <b>Aplicacion B</b>
+&nbsp; Experiencia media en Windows Web y Phone
+&nbsp; Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
