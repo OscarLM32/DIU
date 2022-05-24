@@ -266,7 +266,7 @@ Enlace al github <a href="https://github.com/PalomoVirtual/DIU">AshenTwo</a>
  
 Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplaying. Hemos creado 4 personajes ficticios (2 para cada aplicación) usando los dados proporcionados:
 
-(img/dados.png)
+![dados](img/dados.png)
 
 Usuario1: 2 6 5 (Aplicacion A): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
 Usuario2: 3 5 3 (Aplicacion A): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
