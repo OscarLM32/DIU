@@ -271,8 +271,17 @@ Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplay
 <b>Usuario1</b>: 2 6 5 (<b>Aplicacion A</b>): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
 <br><b>Usuario2</b>: 3 5 3 (<b>Aplicacion A</b>): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
 
-<b>Usuario3</b>: 6 viejo - 4 problemas de tiempo - 4 sorprendido(<b>Aplicacion B</b>): Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
-<br><b>Usuario4</b>: 1 meditacion - 4 problemas de tiempo - 6 triste (<b>Aplicacion B</b>) : Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
+<b>Usuario3</b>:
+&nbsp 6 viejo - 4 problemas de tiempo - 4 sorprendido
+&nbsp Aplicacion B 
+&nbsp Experiencia baja en Windows y Phone
+&nbsp Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
+&nbsp 
+<br><b>Usuario4</b>
+&nbsp 1 meditacion - 4 problemas de tiempo - 6 triste 
+&nbsp <b>Aplicacion B</b>
+&nbsp Experiencia media en Windows Web y Phone
+&nbsp Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
