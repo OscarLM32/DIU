@@ -268,13 +268,30 @@ Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplay
 
 ![dados](img/dados.png)
 
-<b>Usuario1</b>: 2 6 5 (<b>Aplicacion A</b>): Sara Ramirez desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando de la vida.
-<br><b>Usuario2</b>: 3 5 3 (<b>Aplicacion A</b>): Miguel Suarez es un joven estudiante de universidad de granada que le va muy bien en la vida social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir esa felicidad suya en sus redes sociales
+<b>Usuario1</b>
+<br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
+<br>&emsp;Aplicacion A
+<br>&emsp;Experiencia baja en Windows y teléfono móvil<br>
+
+Sara Ramirez (37), contable y persona extrovertida,
+desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
+disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
+de la vida.
+
+<br><b>Usuario2</b>:
+<br>&emsp;3 vida social - 5 fotografía - 3 felicidad
+<br>&emsp;Aplicacion A
+<br>&emsp;Experiencia media en Windows y teléfono móvil<br>
+
+Miguel Suarez (20) es un joven estudiante de universidad de granada que le va muy bien en la vida
+social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir
+esa felicidad suya en sus redes sociales
+
 
 <b>Usuario3</b>:
 <br>&emsp;6 viejo - 4 problemas de tiempo - 4 sorprendido
 <br>&emsp;Aplicacion B 
-<br>&emsp;Experiencia baja en Windows y Phone
+<br>&emsp;Experiencia baja en Windows y Phone<br>
 <br>&emsp;Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
 <br><b>Usuario4</b>
 <br>&emsp;1 meditacion - 4 problemas de tiempo - 6 triste 
