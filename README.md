@@ -240,7 +240,7 @@ En cuanto a la paleta de colores se ha tomado una paleta de colores cálidos a e
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-([Para ver el proyecto figma](https://github.com/OscarLM32/DIU.git))
+([Para ver el proyecto figma](./P3/%E2%96%B6%20Page%201%20-%20Proyecto_%20-%20Brave%202022-05-22%2020-54-57.mp4))
 
 
 ## Paso 4. Evaluación 
@@ -278,6 +278,8 @@ desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y 
 disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
 de la vida.
 
+
+
 <br><b>Usuario2</b>:
 <br>&emsp;3 vida social - 5 fotografía - 3 felicidad
 <br>&emsp;Aplicacion A
@@ -287,17 +289,23 @@ Miguel Suarez (20) es un joven estudiante de universidad de granada que le va mu
 social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir
 esa felicidad suya en sus redes sociales
 
-
 <b>Usuario3</b>:
 <br>&emsp;6 viejo - 4 problemas de tiempo - 4 sorprendido
 <br>&emsp;Aplicacion B 
 <br>&emsp;Experiencia baja en Windows y Phone<br>
-<br>&emsp;Antonio Mendez recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que antes era simplemente salir con amigos
+
+Antonio Mendez (65) recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta 
+asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que 
+antes era simplemente salir con amigos
+
 <br><b>Usuario4</b>
 <br>&emsp;1 meditacion - 4 problemas de tiempo - 6 triste 
-<br>&emsp;Aplicacion B<
-<br>&emsp;Experiencia media en Windows Web y Phone
-<br>&emsp;Raul Martinez Es un joven de treinta y pocos años que ha estado en busca de el mejor trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de paz y relajacion para intentar equilibrar su vida
+<br>&emsp;Aplicacion B
+<br>&emsp;Experiencia media en Windows Web y Phone<br>
+
+Raul Martinez (33) Es un joven de treinta y pocos años que ha estado en busca de el mejor 
+trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de 
+paz y relajacion para intentar equilibrar su vida
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
