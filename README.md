@@ -313,7 +313,7 @@ paz y relajacion para intentar equilibrar su vida
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-[Test SUS](./P4/Test%20SUS.PNG)
+![TestSuS](./P4/TestSUS.PNG)
 
 Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria <b>6,75</b> 6,75 puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente en la confianza que da la aplicacion a los usuarios, los conocimientos previos y la frecuencia de uso de la misma.
 <br>Como podemos ver el ultimo punto diferenciador que comentamos antes tampoco depende en gran medida de la interfaz de usuario, sino de la naturaleza de la aplicacion. Una aplicacion destinada a ser un juego estilo trivial esta hecha para un uso mas habitual que una aplicacion destinada a eventos y "tienda online".
