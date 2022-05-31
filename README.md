@@ -315,9 +315,9 @@ paz y relajacion para intentar equilibrar su vida
 ----
 [Test SUS](./P4/Test%20SUS.PNG)
 
-Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria 6,75 puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente en la confianza que da la aplicacion a los usuarios, los conocimientos previos y la frecuencia de uso de la misma.
-Como podemos ver el ultimo punto diferenciador que comentamos antes tampoco depende en gran medida de la interfaz de usuario, sino de la naturaleza de la aplicacion. Una aplicacion destinada a ser un juego estilo trivial esta hecha para un uso mas habitual que una aplicacion destinada a eventos y "tienda online".
-Adicionalmente, es facilmente observable que los dos primeros puntos no dependen en gran medida de la aplicacion, sino del usuario que las usa. Es por esto, que unido a que el estudio no se ha tenido con una muestra representativa y homogenea que vemos que no podemos terminar de concluir cual de ambos es mejor. 
+Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria <b>6,75</b> 6,75 puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente en la confianza que da la aplicacion a los usuarios, los conocimientos previos y la frecuencia de uso de la misma.
+<br>Como podemos ver el ultimo punto diferenciador que comentamos antes tampoco depende en gran medida de la interfaz de usuario, sino de la naturaleza de la aplicacion. Una aplicacion destinada a ser un juego estilo trivial esta hecha para un uso mas habitual que una aplicacion destinada a eventos y "tienda online".
+<br>Adicionalmente, es facilmente observable que los dos primeros puntos no dependen en gran medida de la aplicacion, sino del usuario que las usa. Es por esto, que unido a que el estudio no se ha tenido con una muestra representativa y homogenea que vemos que no podemos terminar de concluir cual de ambos es mejor. 
 
 
 
