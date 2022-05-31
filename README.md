@@ -271,7 +271,8 @@ Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplay
 <b>Usuario1</b>
 <br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
 <br>&emsp;Aplicacion A
-<br>&emsp;Experiencia baja en Windows y teléfono móvil<br>
+<br>&emsp;Experiencia baja en Windows y teléfono móvil
+<br>&emsp;Busca nuevas experiencias<br>
 
 Sara Ramirez (37), contable y persona extrovertida,
 desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
@@ -279,11 +280,11 @@ disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir di
 de la vida.
 
 
-
 <br><b>Usuario2</b>:
 <br>&emsp;3 vida social - 5 fotografía - 3 felicidad
 <br>&emsp;Aplicacion A
-<br>&emsp;Experiencia media en Windows y teléfono móvil<br>
+<br>&emsp;Experiencia media en Windows y teléfono móvil
+<br>&emsp;Busca conocer gente nueva y ampliar aun mas su circulo de amistades<br>
 
 Miguel Suarez (20) es un joven estudiante de universidad de granada que le va muy bien en la vida
 social y en la carrera debido a su actitud jovial ante la vida y le gusta mucho compartir
@@ -292,7 +293,8 @@ esa felicidad suya en sus redes sociales
 <b>Usuario3</b>:
 <br>&emsp;6 viejo - 4 problemas de tiempo - 4 sorprendido
 <br>&emsp;Aplicacion B 
-<br>&emsp;Experiencia baja en Windows y Phone<br>
+<br>&emsp;Experiencia baja en Windows y Phone
+<br>&emsp;Esta saliendo con sus demas amigos de tambien 60 y largos años<br>
 
 Antonio Mendez (65) recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta 
 asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que 
@@ -301,7 +303,8 @@ antes era simplemente salir con amigos
 <br><b>Usuario4</b>
 <br>&emsp;1 meditacion - 4 problemas de tiempo - 6 triste 
 <br>&emsp;Aplicacion B
-<br>&emsp;Experiencia media en Windows Web y Phone<br>
+<br>&emsp;Experiencia media en Windows Web y Phone
+<br>&emsp;Esta buscando actividades para evadirse y entretenerse tranquilamente<br>
 
 Raul Martinez (33) Es un joven de treinta y pocos años que ha estado en busca de el mejor 
 trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de 
@@ -310,12 +313,12 @@ paz y relajacion para intentar equilibrar su vida
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+[Test SUS](./P4/Test%20SUS.PNG)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria 6,75 puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente en la confianza que da la aplicacion a los usuarios, los conocimientos previos y la frecuencia de uso de la misma.
+Como podemos ver el ultimo punto diferenciador que comentamos antes tampoco depende en gran medida de la interfaz de usuario, sino de la naturaleza de la aplicacion. Una aplicacion destinada a ser un juego estilo trivial esta hecha para un uso mas habitual que una aplicacion destinada a eventos y "tienda online".
+Adicionalmente, es facilmente observable que los dos primeros puntos no dependen en gran medida de la aplicacion, sino del usuario que las usa. Es por esto, que unido a que el estudio no se ha tenido con una muestra representativa y homogenea que vemos que no podemos terminar de concluir cual de ambos es mejor. 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
