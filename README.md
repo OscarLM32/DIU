@@ -330,7 +330,7 @@ Basandonos en la puntuacion media de ambos test podemos inducir que el programa 
 >>> Valoración personal 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
