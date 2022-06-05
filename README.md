@@ -323,7 +323,7 @@ Basandonos en la puntuacion media de ambos test podemos inducir que el programa 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-[accede al report](P4/P4_UsabReport_AshenTwo_doneby_12_PaquitoGaming.pdf)
+Por ultimo, hemos realizado un estudio de la aplicacion "Mes temático con trivial en Carlota Braun" desarrollada por el grupo AshenTwo : [accede al report](P4/P4_UsabReport_AshenTwo_doneby_12_PaquitoGaming.pdf)
 
 
 
