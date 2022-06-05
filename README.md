@@ -294,11 +294,10 @@ esa felicidad suya en sus redes sociales
 <br>&emsp;6 viejo - 4 problemas de tiempo - 4 sorprendido
 <br>&emsp;Aplicacion B 
 <br>&emsp;Experiencia baja en Windows y Phone
-<br>&emsp;Esta saliendo con sus demas amigos de tambien 60 y largos años<br>
+<br>&emsp;Esta saliendo con su sobrino de treinta y pocos<br>
 
 Antonio Mendez (65) recien prejubilado no sabe todavia en que gastar su tiempo libre y se esta 
-asombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias a lo que 
-antes era simplemente salir con amigos
+sombrando con todas las nuevas posiblidades que estan trayendo las nuevas tecnologias.
 
 <br><b>Usuario4</b>
 <br>&emsp;1 meditacion - 4 problemas de tiempo - 6 triste 
@@ -307,7 +306,7 @@ antes era simplemente salir con amigos
 <br>&emsp;Esta buscando actividades para evadirse y entretenerse tranquilamente<br>
 
 Raul Martinez (33) Es un joven de treinta y pocos años que ha estado en busca de el mejor 
-trabajo y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de 
+puesto de contable posible y ha terminado descuidando su propia salud mental y esta ahora optando por un camino de 
 paz y relajacion para intentar equilibrar su vida
 
 
@@ -315,9 +314,9 @@ paz y relajacion para intentar equilibrar su vida
 ----
 ![TestSuS](./P4/TestSUS.PNG)
 
-Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria <b>6,75</b> 6,75 puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente en la confianza que da la aplicacion a los usuarios, los conocimientos previos y la frecuencia de uso de la misma.
+Basandonos en la puntuacion media de ambos test podemos inducir que el programa A seria <b>12.5</b>  puntos mejor que su contra opuesto. Esta diferencia se encuentra principalmente a los conocimientos previos de los mismos junto a la frecuencia de uso de la misma.
 <br>Como podemos ver el ultimo punto diferenciador que comentamos antes tampoco depende en gran medida de la interfaz de usuario, sino de la naturaleza de la aplicacion. Una aplicacion destinada a ser un juego estilo trivial esta hecha para un uso mas habitual que una aplicacion destinada a eventos y "tienda online".
-<br>Adicionalmente, es facilmente observable que los dos primeros puntos no dependen en gran medida de la aplicacion, sino del usuario que las usa. Es por esto, que unido a que el estudio no se ha tenido con una muestra representativa y homogenea que vemos que no podemos terminar de concluir cual de ambos es mejor. 
+<br>Adicionalmente, es facilmente observable que el primer punto no dependen tampoco de la aplicacion, sino del usuario que las usa. Se puede ver como el usuario 4, cuyos conocimientos son medios y esta habituado al uso de las tecnologias tiene deja una nota bastante similar al de los usuarios 1 y 2 de su respectiva aplicacion. No es sino el usuario 3, que debido a su edad y sus pocos conocimientos de las teconologias ve problemas que el usuario 4 no percibe . Es por esto, que unido a que el estudio no se ha tenido con una muestra representativa y homogenea, no podemos concluir cual de ambos es indiscutiblemente mejor. 
 
 
 
