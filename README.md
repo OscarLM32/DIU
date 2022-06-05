@@ -323,7 +323,7 @@ Basandonos en la puntuacion media de ambos test podemos inducir que el programa 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+![accede al report](P4/P4_UsabReport_AshenTwo_doneby_12_PaquitoGaming)
 
 
 
